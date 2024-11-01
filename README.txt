@@ -1,10 +1,11 @@
 # FA24-WesterbergJ-McCreA-OlsenR
 
-Richey Olsen - Created the base project, base level one, and main menu. Added functionality for ammo pick ups
-as well as the ammo UI. Implemented some targets, hazards, and obstacles and textures.
+Richey Olsen - Created the base project, main menu, and level 2. Added functionality for ammo
+as well as the ammo UI. Implemented the targets and hazards objects. Implemented the level switching mechanism
+when all targets are destroyed.
 
-Audrey McCrea - Created the health and ammo pick ups and implemented some functionality for them. Implemented a 
-lot of textures, effects, and details to level one.
+Audrey McCrea - Implemented the health and ammo pick ups. Implemented a 
+lot of textures, effects, and details to level one. Made the starting house in level 2
 
 Jack Westerberg - Created the health bar UI and functionality. Implemented damage interaction and health regeneration
 interaction with health pickups. Added death animation, respawn after four seconds, and damage animation.
