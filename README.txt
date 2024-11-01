@@ -1,5 +1,9 @@
 # FA24-WesterbergJ-McCreA-OlsenR
 
+Showcase: https://youtu.be/x7_JpPfqfE8
+Explanation: https://youtu.be/wc8Hesec8VM
+
+
 Richey Olsen - Created the base project, main menu, and level 2. Added functionality for ammo
 as well as the ammo UI. Implemented the targets and hazards objects. Implemented the level switching mechanism
 when all targets are destroyed.
