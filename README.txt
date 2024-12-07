@@ -1,7 +1,7 @@
 # FA24-WesterbergJ-McCreA-OlsenR-ReichelA
 
-Showcase: https://youtu.be/x7_JpPfqfE8
-Explanation: https://youtu.be/wc8Hesec8VM
+Showcase: https://youtu.be/hYjNql9WU5s
+Explanation: https://youtu.be/wzUx4kUPW9M
 
 
 Richey Olsen - Created the base project, implemented target tracking, implemented key challenge, implemented unlockable non-teleportable areas
